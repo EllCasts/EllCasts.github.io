@@ -51,5 +51,17 @@ League of Legends
 PUBG (PC)
   - RetroCatz Scrim Community Games Day 1
 
+---
+PORTFOLIO AND REEL
+---
+
+Portfolio:url: "https://drive.google.com/drive/u/1/folders/1ORMnbXtaNCc2ttkYaVYkOeNnSj1GFH8Z"
+
+
+
+Contact Details
+
+
+
 
 
