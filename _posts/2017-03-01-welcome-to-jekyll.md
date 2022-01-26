@@ -16,6 +16,7 @@ Educational Background: Lyceum of the Philippines University - Manila (BS Esport
 Work Experience:
 
 Shoutcasting
+
 Valorant  
   - LPU Pirate Esports Valorant Tryouts
   - LPU Pirate Esports Valorant Tryouts Finals
@@ -44,7 +45,9 @@ Call of Duty: Mobile:
 League of Legends
  - LPU Pirate Esports League of Legends Tryouts
  - LPU Pirate Esports League of Legends Tryouts Finals
-![image](https://user-images.githubusercontent.com/97023172/151155937-abc666b3-e3ce-477e-827f-85ed59a5b14f.png)
+
+PUBG (PC)
+  - RetroCatz Scrim Community Games Day 1
 
 
 
