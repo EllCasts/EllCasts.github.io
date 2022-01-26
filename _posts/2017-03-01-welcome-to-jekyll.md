@@ -29,7 +29,22 @@ Valorant
   - Dynasty Organization x JBL Valorant Streamers Tournament, Grand Finals Week 9
   - Vox Populi Valorant League Day 2
   - VALORANT PH FFA PUGS 
-![image](https://user-images.githubusercontent.com/97023172/151155567-cba4257b-11bc-4571-97c8-c303bc152002.png)
+
+Mobile Legends
+  - LPU Pirate Esports Mobile Legends Tryouts
+  - LPU Pirate Esports Mobile Legends Tryouts Finals
+  - LACS ESPORTS: The Battle of Cruise Liners in the World of Mobile Gaming, Mobile Legends Grand Finals
+  - Ovens Lechon House MLBB Tournament
+
+Call of Duty: Mobile:
+  - LPU Pirate Esports CODM Tryouts
+  - LPU Pirate Esports CODM Tryouts Finals
+  - LACS ESPORTS: The Battle of Cruise Liners in the World of Mobile Gaming, CODM Grand Finals
+
+League of Legends
+ - LPU Pirate Esports League of Legends Tryouts
+ - LPU Pirate Esports League of Legends Tryouts Finals
+![image](https://user-images.githubusercontent.com/97023172/151155937-abc666b3-e3ce-477e-827f-85ed59a5b14f.png)
 
 
 
