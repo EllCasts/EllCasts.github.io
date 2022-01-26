@@ -13,7 +13,9 @@ Address: Bay Garden Homes, Sto. Domingo, Bay Laguna
 
 Educational Background: Lyceum of the Philippines University - Manila (BS Esports - Esports Management)
 
+---
 Work Experience:
+---
 
 Shoutcasting
 
