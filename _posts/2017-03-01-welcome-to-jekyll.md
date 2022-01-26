@@ -14,7 +14,7 @@ Educational Background: Lyceum of the Philippines University - Manila ( BS Espor
 Work Experience:
 
 Shoutcasting
-- Valorant  
+Valorant  
   - SNTRY
     - Head Shoutcaster
 
