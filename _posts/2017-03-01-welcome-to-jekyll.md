@@ -55,11 +55,14 @@ PUBG (PC)
 PORTFOLIO AND REEL
 ---
 
-Portfolio:url: "https://drive.google.com/drive/u/1/folders/1ORMnbXtaNCc2ttkYaVYkOeNnSj1GFH8Z"
+Portfolio:"https://drive.google.com/drive/u/1/folders/1ORMnbXtaNCc2ttkYaVYkOeNnSj1GFH8Z"
+Casting Reel: "https://www.youtube.com/watch?v=seyewRCZeCs&ab_channel=EllCasts"
 
-
-
+---
 Contact Details
+---
+
+Linktree: https://linktr.ee/EllCasts
 
 
 
