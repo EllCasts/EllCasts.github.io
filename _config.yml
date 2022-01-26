@@ -16,14 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home Change", icon: home}
-  - {file: "README.md", title: "About Me", icon: address-card}
+  - {file: "index.html", title: "CV", icon: home}
+  - {title: "Linktree", url: "https://linktr.ee/EllCasts", icon: fas fa-tree}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lowellcasts@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/EllCasts"}
-  - {title: LinkTree, icon: rss, url: "https://linktr.ee/EllCasts"}
-
+ 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
